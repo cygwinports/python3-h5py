@@ -3,7 +3,7 @@ inherit python3-distutils
 
 NAME="python3-h5py"
 VERSION=2.4.0
-RELEASE=1
+RELEASE=2
 CATEGORY="Python"
 SUMMARY="A Pythonic interface to the HDF5 binary data format for Python 3"
 DESCRIPTION="This package lets you store huge amounts of numerical 
